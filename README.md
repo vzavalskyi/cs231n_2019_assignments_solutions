@@ -12,7 +12,7 @@ Useful materials:
 
 | Assignment 1                                                                   |  Done    |
 | -------------------------------------------------------------------------------| --------:|
-| [Q1](assignment1/knn.ipynb)                     k-Nearest Neighbor classifier. |    --    |
+| [Q1](assignment1/knn.ipynb)                     k-Nearest Neighbor classifier. | &#x2714; |
 | [Q2](assignment1/svm.ipynb)                Training a Support Vector Machine.  | &#x2714; |
 | [Q3](assignment1/softmax.ipynb)                Implement a Softmax classifier. | &#x2714; |
 | [Q4](assignment1/two_layer_net.ipynb)                Two-Layer Neural Network. | &#x2714; |
@@ -39,4 +39,3 @@ Useful materials:
 
 TODO:
 - Tensorflow implementations
-- Q1
